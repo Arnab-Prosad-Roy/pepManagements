@@ -1,0 +1,15 @@
+@media (min-width:320px ) and (max-width:992px ){
+	#requisition_row{
+		padding-top: 41px;
+		padding-bottom: 41px;
+	}
+	#requirement_label{
+		margin-top: 32px;
+	}
+}
+@media (min-width:993px ){
+	#requisition_row{
+
+		padding: 57px 60px;
+		}
+}

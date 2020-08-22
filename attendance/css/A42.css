@@ -1,0 +1,18 @@
+body {
+  background: rgb(204,204,204); 
+}
+page[size="A42"] {
+  background: white;
+  width: 21cm;
+  height: 25.2cm;
+  display: block;
+  margin: 15px auto;
+  margin-bottom: 1.5cm;
+  box-shadow: 0 0 0.5cm rgba(0,0,0,0.5);
+}
+@media print {
+  body, page[size="A42"] {
+    margin: 0;
+    box-shadow: 0;
+  }
+}

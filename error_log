@@ -1,0 +1,30 @@
+[29-Aug-2018 08:14:47 UTC] PHP Warning:  include(inc/header.php): failed to open stream: No such file or directory in /home2/kealcom/people.keal.com.bd/index.php on line 1
+[29-Aug-2018 08:14:47 UTC] PHP Warning:  include(inc/header.php): failed to open stream: No such file or directory in /home2/kealcom/people.keal.com.bd/index.php on line 1
+[29-Aug-2018 08:14:47 UTC] PHP Warning:  include(): Failed opening 'inc/header.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home2/kealcom/people.keal.com.bd/index.php on line 1
+[29-Aug-2018 08:14:47 UTC] PHP Warning:  include(inc/footer.php): failed to open stream: No such file or directory in /home2/kealcom/people.keal.com.bd/index.php on line 37
+[29-Aug-2018 08:14:47 UTC] PHP Warning:  include(inc/footer.php): failed to open stream: No such file or directory in /home2/kealcom/people.keal.com.bd/index.php on line 37
+[29-Aug-2018 08:14:47 UTC] PHP Warning:  include(): Failed opening 'inc/footer.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home2/kealcom/people.keal.com.bd/index.php on line 37
+[29-Aug-2018 08:15:13 UTC] PHP Warning:  include(inc/header.php): failed to open stream: No such file or directory in /home2/kealcom/people.keal.com.bd/index.php on line 1
+[29-Aug-2018 08:15:13 UTC] PHP Warning:  include(inc/header.php): failed to open stream: No such file or directory in /home2/kealcom/people.keal.com.bd/index.php on line 1
+[29-Aug-2018 08:15:13 UTC] PHP Warning:  include(): Failed opening 'inc/header.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home2/kealcom/people.keal.com.bd/index.php on line 1
+[29-Aug-2018 08:15:13 UTC] PHP Warning:  include(inc/footer.php): failed to open stream: No such file or directory in /home2/kealcom/people.keal.com.bd/index.php on line 37
+[29-Aug-2018 08:15:13 UTC] PHP Warning:  include(inc/footer.php): failed to open stream: No such file or directory in /home2/kealcom/people.keal.com.bd/index.php on line 37
+[29-Aug-2018 08:15:13 UTC] PHP Warning:  include(): Failed opening 'inc/footer.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home2/kealcom/people.keal.com.bd/index.php on line 37
+[29-Aug-2018 08:53:21 UTC] PHP Warning:  include(inc/header.php): failed to open stream: No such file or directory in /home2/kealcom/people.keal.com.bd/index.php on line 1
+[29-Aug-2018 08:53:21 UTC] PHP Warning:  include(inc/header.php): failed to open stream: No such file or directory in /home2/kealcom/people.keal.com.bd/index.php on line 1
+[29-Aug-2018 08:53:21 UTC] PHP Warning:  include(): Failed opening 'inc/header.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home2/kealcom/people.keal.com.bd/index.php on line 1
+[29-Aug-2018 08:53:21 UTC] PHP Warning:  include(inc/footer.php): failed to open stream: No such file or directory in /home2/kealcom/people.keal.com.bd/index.php on line 37
+[29-Aug-2018 08:53:21 UTC] PHP Warning:  include(inc/footer.php): failed to open stream: No such file or directory in /home2/kealcom/people.keal.com.bd/index.php on line 37
+[29-Aug-2018 08:53:21 UTC] PHP Warning:  include(): Failed opening 'inc/footer.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home2/kealcom/people.keal.com.bd/index.php on line 37
+[29-Aug-2018 08:53:32 UTC] PHP Warning:  include(inc/header.php): failed to open stream: No such file or directory in /home2/kealcom/people.keal.com.bd/index.php on line 1
+[29-Aug-2018 08:53:32 UTC] PHP Warning:  include(inc/header.php): failed to open stream: No such file or directory in /home2/kealcom/people.keal.com.bd/index.php on line 1
+[29-Aug-2018 08:53:32 UTC] PHP Warning:  include(): Failed opening 'inc/header.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home2/kealcom/people.keal.com.bd/index.php on line 1
+[29-Aug-2018 08:53:32 UTC] PHP Warning:  include(inc/footer.php): failed to open stream: No such file or directory in /home2/kealcom/people.keal.com.bd/index.php on line 37
+[29-Aug-2018 08:53:32 UTC] PHP Warning:  include(inc/footer.php): failed to open stream: No such file or directory in /home2/kealcom/people.keal.com.bd/index.php on line 37
+[29-Aug-2018 08:53:32 UTC] PHP Warning:  include(): Failed opening 'inc/footer.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home2/kealcom/people.keal.com.bd/index.php on line 37
+[30-Aug-2018 04:22:22 UTC] PHP Warning:  include(inc/header.php): failed to open stream: No such file or directory in /home2/kealcom/test.keal.com.bd/index.php on line 1
+[30-Aug-2018 04:22:22 UTC] PHP Warning:  include(inc/header.php): failed to open stream: No such file or directory in /home2/kealcom/test.keal.com.bd/index.php on line 1
+[30-Aug-2018 04:22:22 UTC] PHP Warning:  include(): Failed opening 'inc/header.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home2/kealcom/test.keal.com.bd/index.php on line 1
+[30-Aug-2018 04:22:22 UTC] PHP Warning:  include(inc/footer.php): failed to open stream: No such file or directory in /home2/kealcom/test.keal.com.bd/index.php on line 37
+[30-Aug-2018 04:22:22 UTC] PHP Warning:  include(inc/footer.php): failed to open stream: No such file or directory in /home2/kealcom/test.keal.com.bd/index.php on line 37
+[30-Aug-2018 04:22:22 UTC] PHP Warning:  include(): Failed opening 'inc/footer.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home2/kealcom/test.keal.com.bd/index.php on line 37

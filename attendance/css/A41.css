@@ -1,0 +1,12 @@
+body {
+  background: rgb(204,204,204); 
+}
+page[size="A41"] {
+  background: white;
+  width: 21cm;
+  height: 20.2cm;
+  display: block;
+  margin: 15px auto;
+  margin-bottom: 1.5cm;
+  box-shadow: 0 0 0.5cm rgba(0,0,0,0.5);
+}
